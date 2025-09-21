@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Nama    : Triana S Iman
+NPM     : 07352311003
+Kelas   : 5IF2
